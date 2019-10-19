@@ -1,0 +1,31 @@
+.block{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px ;
+  text-align: center
+}
+
+.p-center{
+  padding: 0px auto;
+}
+
+.p-10{
+  padding: 10px;
+}
+
+.gray{
+  color:gray;
+}
+
+.w-200{
+  width: 200px;
+}
+
+.btn-select{
+  height: 30px;
+}
+
+.liTypeNone{
+  list-style-type:none;
+}
